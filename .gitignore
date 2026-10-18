@@ -1,0 +1,5 @@
+/app/config.php
+*.sqlite
+*.sqlite-*
+*.log
+*.sync
